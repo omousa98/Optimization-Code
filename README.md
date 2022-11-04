@@ -9,4 +9,4 @@ Obtain code from a starter code repo, and refactor it the best I can. The purpos
 ![Screen shot of the bottom part of my Live Server](https://github.com/omousa98/Optimization-Code/blob/main/assets/images/Horiseon%20Bottom.png)
 ## URL
 
-Deployed URL link: https://omousa98.github.io/Optimization-Code/
+deployed URL link: https://omousa98.github.io/Optimization-Code/
