@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Section */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,6 +44,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* A and P Selector */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,14 +55,18 @@ p {
     font-size: 16px;
 }
 
+/* Background img */
+
 main img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("/Optimization-Code/assets/images/digital-marketing-meeting.jpg");
+    background-image: url("/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
+
+/* Floater Selector */
 
 .float-left {
     float: left;
@@ -69,6 +77,8 @@ main img {
     float: right;
     margin-left: 25px;
 }
+
+/* Content Section */
 
 section div {
     margin-bottom: 20px;
@@ -93,6 +103,8 @@ section {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Right Side Content Section */
 
 aside {
     margin-right: 20px;
@@ -120,6 +132,8 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer Section */
 
 footer {
     padding: 30px;
